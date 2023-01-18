@@ -13,7 +13,7 @@ This is a simple gradebook written in Python. It allows teachers to easily keep 
 ## Installation
 
 1. Download the source code and extract it to a directory of your choice.
-2. Install Python 3.x.
+2. Install Python 3.9.
 3. Install the required dependencies using `pip install -r requirements.txt`.
 4. Run `python gradebook.py` to start the application.
 
